@@ -33,7 +33,7 @@
             // 
             // salir
             // 
-            this.salir.Location = new System.Drawing.Point(197, 215);
+            this.salir.Location = new System.Drawing.Point(190, 216);
             this.salir.Name = "salir";
             this.salir.Size = new System.Drawing.Size(75, 23);
             this.salir.TabIndex = 0;
@@ -45,7 +45,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.ClientSize = new System.Drawing.Size(448, 261);
             this.Controls.Add(this.salir);
             this.Name = "Proovedores";
             this.Text = "Lista de Proovedores";

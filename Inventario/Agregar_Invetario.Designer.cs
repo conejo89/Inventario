@@ -58,7 +58,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 25);
+            this.label1.Location = new System.Drawing.Point(61, 34);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(105, 13);
             this.label1.TabIndex = 1;
@@ -67,25 +67,25 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(178, 25);
+            this.label2.Location = new System.Drawing.Point(248, 34);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(110, 13);
+            this.label2.Size = new System.Drawing.Size(49, 13);
             this.label2.TabIndex = 2;
-            this.label2.Text = "Cantidad de Producto";
+            this.label2.Text = "Cantidad";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(345, 25);
+            this.label3.Location = new System.Drawing.Point(384, 34);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(102, 13);
+            this.label3.Size = new System.Drawing.Size(41, 13);
             this.label3.TabIndex = 3;
-            this.label3.Text = "Unidad de Producto";
+            this.label3.Text = "Unidad";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(12, 120);
+            this.label4.Location = new System.Drawing.Point(26, 129);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(114, 13);
             this.label4.TabIndex = 4;
@@ -94,7 +94,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(173, 120);
+            this.label5.Location = new System.Drawing.Point(178, 129);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(115, 13);
             this.label5.TabIndex = 5;
@@ -103,7 +103,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(324, 120);
+            this.label6.Location = new System.Drawing.Point(329, 129);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(118, 13);
             this.label6.TabIndex = 6;
@@ -113,12 +113,12 @@
             // 
             this.txtNombre_Producto.Location = new System.Drawing.Point(12, 63);
             this.txtNombre_Producto.Name = "txtNombre_Producto";
-            this.txtNombre_Producto.Size = new System.Drawing.Size(138, 20);
+            this.txtNombre_Producto.Size = new System.Drawing.Size(179, 20);
             this.txtNombre_Producto.TabIndex = 7;
             // 
             // txtCantidad_del_Producto
             // 
-            this.txtCantidad_del_Producto.Location = new System.Drawing.Point(207, 63);
+            this.txtCantidad_del_Producto.Location = new System.Drawing.Point(243, 63);
             this.txtCantidad_del_Producto.Name = "txtCantidad_del_Producto";
             this.txtCantidad_del_Producto.Size = new System.Drawing.Size(64, 20);
             this.txtCantidad_del_Producto.TabIndex = 9;
@@ -129,9 +129,9 @@
             this.txtUnidad_de_medida.Items.Add("Kg");
             this.txtUnidad_de_medida.Items.Add("Lts");
             this.txtUnidad_de_medida.Items.Add("gr.");
-            this.txtUnidad_de_medida.Location = new System.Drawing.Point(327, 64);
+            this.txtUnidad_de_medida.Location = new System.Drawing.Point(377, 64);
             this.txtUnidad_de_medida.Name = "txtUnidad_de_medida";
-            this.txtUnidad_de_medida.Size = new System.Drawing.Size(120, 20);
+            this.txtUnidad_de_medida.Size = new System.Drawing.Size(57, 20);
             this.txtUnidad_de_medida.TabIndex = 10;
             this.txtUnidad_de_medida.Text = "Kg";
             this.txtUnidad_de_medida.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
